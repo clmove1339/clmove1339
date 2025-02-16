@@ -19,13 +19,10 @@
 ---
 
 ### 📈 **GitHub Analytics**
+![Stats](https://github-readme-stats.vercel.app/api?username=clmove1339&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=clmove1339&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clmove1339&layout=compact&theme=dark&langs_count=8&hide_border=true)
 
-<div align="center">  
-  
-  ![Stats](https://github-readme-stats.vercel.app/api?username=clmove1339&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true)
-  ![Streak](https://streak-stats.demolab.com?user=clmove1339&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-  ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clmove1339&layout=compact&theme=dark&langs_count=8&hide_border=true)
-</div>
 
 ---
 
