@@ -2,6 +2,8 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=4493F8&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+clmove%F0%9F%91%8B;A+young+dev+from+Donetsk%F0%9F%8C%86;always+eepy+and+silly%F0%9F%98%8B" alt="Typing SVG" />
   </a>
+
+  <a href="https://wakatime.com/@880f18ea-70a2-44e7-b530-2620c10eeadd"><img src="https://wakatime.com/badge/user/880f18ea-70a2-44e7-b530-2620c10eeadd.svg?style=for-the-badge" alt="Total time coded since Aug 22 2024" /></a>
 </div>
 
 ---
